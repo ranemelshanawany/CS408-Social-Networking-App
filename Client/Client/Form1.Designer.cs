@@ -134,19 +134,23 @@
             // 
             // textBox_port
             // 
+            this.textBox_port.Enabled = false;
             this.textBox_port.Location = new System.Drawing.Point(73, 135);
             this.textBox_port.Margin = new System.Windows.Forms.Padding(2);
             this.textBox_port.Name = "textBox_port";
             this.textBox_port.Size = new System.Drawing.Size(116, 22);
             this.textBox_port.TabIndex = 15;
+            this.textBox_port.Text = "18";
             // 
             // textBox_ip
             // 
+            this.textBox_ip.Enabled = false;
             this.textBox_ip.Location = new System.Drawing.Point(73, 102);
             this.textBox_ip.Margin = new System.Windows.Forms.Padding(2);
             this.textBox_ip.Name = "textBox_ip";
             this.textBox_ip.Size = new System.Drawing.Size(116, 22);
             this.textBox_ip.TabIndex = 14;
+            this.textBox_ip.Text = "127.0.0.1";
             // 
             // label2
             // 

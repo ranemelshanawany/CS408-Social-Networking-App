@@ -10,3 +10,12 @@ c:\users\raneem\documents\visual studio 2015\Projects\Client\Client\obj\Debug\Cl
 C:\Users\Raneem\OneDrive\Desktop\PROJECTS\COMPUTER NETWORKS\Client\Client\bin\Debug\Client.exe.config
 C:\Users\Raneem\OneDrive\Desktop\PROJECTS\COMPUTER NETWORKS\Client\Client\obj\Debug\Client.exe
 C:\Users\Raneem\OneDrive\Desktop\PROJECTS\COMPUTER NETWORKS\Client\Client\obj\Debug\Client.pdb
+C:\Users\Raneem\OneDrive\Desktop\PROJECTS\COMPUTER NETWORKS - Copy\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Raneem\OneDrive\Desktop\PROJECTS\COMPUTER NETWORKS - Copy\Client\Client\obj\Debug\Client.exe
+C:\Users\Raneem\OneDrive\Desktop\PROJECTS\COMPUTER NETWORKS - Copy\Client\Client\obj\Debug\Client.pdb
+C:\Users\Raneem\OneDrive\Desktop\PROJECTS\COMPUTER NETWORKS - Copy\Client\Client\bin\Debug\Client.exe
+C:\Users\Raneem\OneDrive\Desktop\PROJECTS\COMPUTER NETWORKS - Copy\Client\Client\bin\Debug\Client.pdb
+C:\Users\Raneem\OneDrive\Desktop\PROJECTS\COMPUTER NETWORKS - Copy\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Raneem\OneDrive\Desktop\PROJECTS\COMPUTER NETWORKS - Copy\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\Raneem\OneDrive\Desktop\PROJECTS\COMPUTER NETWORKS - Copy\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Raneem\OneDrive\Desktop\PROJECTS\COMPUTER NETWORKS - Copy\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache

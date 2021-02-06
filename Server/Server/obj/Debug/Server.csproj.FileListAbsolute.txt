@@ -10,3 +10,12 @@ c:\users\raneem\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Se
 C:\Users\Raneem\OneDrive\Desktop\PROJECTS\COMPUTER NETWORKS\Server\Server\bin\Debug\Server.exe.config
 C:\Users\Raneem\OneDrive\Desktop\PROJECTS\COMPUTER NETWORKS\Server\Server\obj\Debug\Server.exe
 C:\Users\Raneem\OneDrive\Desktop\PROJECTS\COMPUTER NETWORKS\Server\Server\obj\Debug\Server.pdb
+C:\Users\Raneem\OneDrive\Desktop\PROJECTS\COMPUTER NETWORKS - Copy\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Raneem\OneDrive\Desktop\PROJECTS\COMPUTER NETWORKS - Copy\Server\Server\bin\Debug\Server.exe
+C:\Users\Raneem\OneDrive\Desktop\PROJECTS\COMPUTER NETWORKS - Copy\Server\Server\bin\Debug\Server.pdb
+C:\Users\Raneem\OneDrive\Desktop\PROJECTS\COMPUTER NETWORKS - Copy\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Raneem\OneDrive\Desktop\PROJECTS\COMPUTER NETWORKS - Copy\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\Raneem\OneDrive\Desktop\PROJECTS\COMPUTER NETWORKS - Copy\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Raneem\OneDrive\Desktop\PROJECTS\COMPUTER NETWORKS - Copy\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Raneem\OneDrive\Desktop\PROJECTS\COMPUTER NETWORKS - Copy\Server\Server\obj\Debug\Server.exe
+C:\Users\Raneem\OneDrive\Desktop\PROJECTS\COMPUTER NETWORKS - Copy\Server\Server\obj\Debug\Server.pdb

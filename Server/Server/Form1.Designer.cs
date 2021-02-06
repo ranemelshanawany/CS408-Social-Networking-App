@@ -66,11 +66,13 @@
             // 
             // textBox_port
             // 
+            this.textBox_port.Enabled = false;
             this.textBox_port.Location = new System.Drawing.Point(87, 38);
             this.textBox_port.Margin = new System.Windows.Forms.Padding(2);
             this.textBox_port.Name = "textBox_port";
             this.textBox_port.Size = new System.Drawing.Size(183, 22);
             this.textBox_port.TabIndex = 4;
+            this.textBox_port.Text = "18";
             // 
             // Form1
             // 
